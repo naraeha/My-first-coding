@@ -1,0 +1,16 @@
+태그
+
+<strong> 강조
+<u> 밑줄(underline)
+<h1>~<h6> HTML의 제목을 표현
+<br> 줄바꿈
+<p> 단락
+<img> 이미지
+<src> 소스 source
+<ol> Orderded List 목차 숫자 자동부여
+<ul> Unordered List 제한 없는 목차 
+<li> 목차
+<title> 페이지 제목
+<head> 본문 이외
+<body> 본문
+<a> anchor 앵커 : 링크 걸기
